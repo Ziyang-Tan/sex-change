@@ -37,3 +37,23 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# folders
+data/
+figures/
+figures_2022/
+adata/
+.ipynb_checkpoints/
+PAGA_result_data/
+PAGA_result_data_2022/
+figures_all_batches/
+figures_merge_transition/
+sexchange_old/
+
+# misc
+.DS_Store
+
+
+
+
+
